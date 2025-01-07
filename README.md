@@ -5,8 +5,9 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 ### Code 
 - I have use the code institute template for this project.
 - Added Heroku and mongoDB.
-- Added HTML.
+- Added HTML's index, confirmation, contact, and project.
 - Added Bootstrap5.
 - Added a personal favicon.
 - Added CSS.
-- 
+- Added font awesome.
+- Git committed " added htmls index, contact, confirmation, and project with bootstrap, favicon, css, as wellas font awesome."
