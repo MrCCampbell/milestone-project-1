@@ -31,5 +31,7 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Git committed " Completed github project board and updated readme file. "
 - added wireframes to the images folder.
 - Git committed " Added wireframes from Balsamiq. "
-- addded the wireframes to the readme file.
+- Addded the wireframes to the readme file.
 - Git committed " Added wireframes to readme. "
+- Added navbar to index.html with personal logo.
+- Git committed " Added navbar to index.html with personal logo."
