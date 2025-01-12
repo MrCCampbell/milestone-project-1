@@ -35,3 +35,5 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Git committed " Added wireframes to readme. "
 - Added navbar to index.html with personal logo.
 - Git committed " Added navbar to index.html with personal logo."
+- Added a carousel to the main section class as influnces of the index.html.
+- Git committed " Added carousel to influnces section in index.html. "
