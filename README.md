@@ -38,29 +38,31 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Added a carousel to the main section class as influnces of the index.html.
 - Git committed " Added carousel to influnces section in index.html. "
 - Changed photos for influnce carousel, as was unhappy with original choices.
-- Added credits for each photo on carousel from [^1] to [^18].
+- Added credits for each photo on carousel from [1] to [18].
 - Git comitted " Added credits for each photo on carousel. "
+- Change the readme file to as didn't like the way it presented.
+- Git committed " Changed the readme file for a better look. "
 - 
 
 
 
 ### Credits
 
-- Photo 18r67gzglojskjpg.webp was taken from website https://gizmodo.com/how-does-the-original-tron-live-up-to-our-nerdstalgia-5700796[^1].
-- Photo 545667-mgm4-71a02ef5d8394af83a9bc3b16b7ef2be.webp was taken from website https://www.mentalfloss.com/article/545667/facts-about-wargames[^2].
-- Photo back-to-the-future=ending.avif was taken from website https://screenrant.com/back-future-movie-behind-scenes-facts-marty-mcfly-doc-brown-delorean/[^3].
-- Photo borg_cube_tractors_enterprise-d.avif was taken from website https://www.syfy.com/syfy-wire/best-star-trek-next-generation-episodes-ranked[^4].
-- Photo fullwidth.6a84e222.jpg was taken from website https://thedissolve.com/features/movie-of-the-week/413-robocop-forum-satire-violence-and-state-of-the-art/[^5].
-- Photo genshin.webp was taken from website https://www.siliconera.com/genshin-impact-lands-a-blow-in-its-opening-cutscene/[^6].
-- Photo guilty_crown-03-shu-souta-void-weapon-chest-light-genome.webp taken from website https://simplybinge.com/2014/02/dividebyzer0s-anime-review-guilty-crown/[^7].
-- Photo images1.jpg was taken from website https://thevanguardsite.wordpress.com/2015/10/04/sword-art-online-aincrad/[^8].
-- Photo intro-1638915310.webp was taken from website https://www.slashfilm.com/680507/this-genius-invention-made-2001-a-space-odysseys-most-complex-scene-possible/[^9].
-- Photo knight-rider-michael-knight-david-hasselhoff-1014x570.jpg was taken from website https://www.tvinsider.com/1061349/knight-rider-kitt-car-behind-the-scenes-40th-anniversary/[^10].
-- Photo main-qimg-089e00605c394e0ec05b8a66fe65bb01.webp was taken from website https://www.quora.com/How-popular-is-the-the-anime-Psycho-Pass[^11].
-- Photo sephiroth-surrounded-by-fire-in-ff7.avif was taken from website https://www.thegamer.com/final-fantasy-7-original-game-ending-explained/[^12].
-- Photo short-circuit-splash-800x450.jpg was taken from website https://www.mikeymo.nl/movies/reviews/short-circuit[^13].
-- Photo Star-Wars-Episode-4-A-New-Hope-768x432.jpg was taken from website https://www.scifinow.co.uk/news/top-10-best-star-wars-a-new-hope-moments/[^14].
-- Phot0 the-matrix-subway-fight.avif was taken from website https://collider.com/best-matrix-action-scenes-ranked/[^15].
-- Photo the-terminator-1984.jpg was taken from website https://onceuponatimeininfinitespace.wordpress.com/2011/07/01/escapist-friday-the-terminator-1984/[^16].
-- Photo V5kN2ubX5wwUyPK3KRGcP3-970-80.jpg was taken from website https://www.space.com/transformer-movies-in-order[^17].
-- Photo znyUfG.webp was taken from website https://marinasauce.wordpress.com/2024/01/10/winter-2024-taste-test-solo-leveling/[^18].
+- Photo 18r67gzglojskjpg.webp was taken from website https://gizmodo.com/how-does-the-original-tron-live-up-to-our-nerdstalgia-5700796 [^1].
+- Photo 545667-mgm4-71a02ef5d8394af83a9bc3b16b7ef2be.webp was taken from website https://www.mentalfloss.com/article/545667/facts-about-wargames [^2].
+- Photo back-to-the-future=ending.avif was taken from website https://screenrant.com/back-future-movie-behind-scenes-facts-marty-mcfly-doc-brown-delorean/ [^3].
+- Photo borg_cube_tractors_enterprise-d.avif was taken from website https://www.syfy.com/syfy-wire/best-star-trek-next-generation-episodes-ranked [^4].
+- Photo fullwidth.6a84e222.jpg was taken from website https://thedissolve.com/features/movie-of-the-week/413-robocop-forum-satire-violence-and-state-of-the-art/ [^5].
+- Photo genshin.webp was taken from website https://www.siliconera.com/genshin-impact-lands-a-blow-in-its-opening-cutscene/ [^6].
+- Photo guilty_crown-03-shu-souta-void-weapon-chest-light-genome.webp taken from website https://simplybinge.com/2014/02/dividebyzer0s-anime-review-guilty-crown/ [^7].
+- Photo images1.jpg was taken from website https://thevanguardsite.wordpress.com/2015/10/04/sword-art-online-aincrad/ [^8].
+- Photo intro-1638915310.webp was taken from website https://www.slashfilm.com/680507/this-genius-invention-made-2001-a-space-odysseys-most-complex-scene-possible/ [^9].
+- Photo knight-rider-michael-knight-david-hasselhoff-1014x570.jpg was taken from website https://www.tvinsider.com/1061349/knight-rider-kitt-car-behind-the-scenes-40th-anniversary/ [^10].
+- Photo main-qimg-089e00605c394e0ec05b8a66fe65bb01.webp was taken from website https://www.quora.com/How-popular-is-the-the-anime-Psycho-Pass [^11].
+- Photo sephiroth-surrounded-by-fire-in-ff7.avif was taken from website https://www.thegamer.com/final-fantasy-7-original-game-ending-explained/ [^12].
+- Photo short-circuit-splash-800x450.jpg was taken from website https://www.mikeymo.nl/movies/reviews/short-circuit [^13].
+- Photo Star-Wars-Episode-4-A-New-Hope-768x432.jpg was taken from website https://www.scifinow.co.uk/news/top-10-best-star-wars-a-new-hope-moments/ [^14].
+- Phot0 the-matrix-subway-fight.avif was taken from website https://collider.com/best-matrix-action-scenes-ranked/ [^15].
+- Photo the-terminator-1984.jpg was taken from website https://onceuponatimeininfinitespace.wordpress.com/2011/07/01/escapist-friday-the-terminator-1984/ [^16].
+- Photo V5kN2ubX5wwUyPK3KRGcP3-970-80.jpg was taken from website https://www.space.com/transformer-movies-in-order [^17].
+- Photo znyUfG.webp was taken from website https://marinasauce.wordpress.com/2024/01/10/winter-2024-taste-test-solo-leveling/ [^18].
