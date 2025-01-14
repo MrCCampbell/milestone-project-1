@@ -45,6 +45,10 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Git committed " Updated readme file to change look. "
 - Change ref numbers for credits as the still did not look right.
 - Git committed " Changed numbers for credits. "
+- Tidy up code on carousel.
+- Git committed " Tidying up carousel and test styles. "
+- Styled navbar.
+- git committed " Styled navbar. "
 - 
 
 
