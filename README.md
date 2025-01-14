@@ -49,7 +49,12 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Git committed " Tidying up carousel and test styles. "
 - Styled navbar.
 - git committed " Styled navbar. "
-- 
+- Added photo and credit <sup>19</sup> for hero image.
+- Styled header on css.
+- Added heading and paragraph to influnces carousel.
+- Added header to contact, project and confirmation html's.
+- Git committed " Styled header, added header to other html's and finished the influences carousel section go the homepage. "
+-
 
 
 
@@ -74,3 +79,4 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Photo the-terminator-1984.jpg was taken from website https://onceuponatimeininfinitespace.wordpress.com/2011/07/01/escapist-friday-the-terminator-1984/ <sup>[16]</sup>.
 - Photo V5kN2ubX5wwUyPK3KRGcP3-970-80.jpg was taken from website https://www.space.com/transformer-movies-in-order <sup>[17]</sup>.
 - Photo znyUfG.webp was taken from website https://marinasauce.wordpress.com/2024/01/10/winter-2024-taste-test-solo-leveling/ <sup>[18]</sup>.
+- Photo pexels-danny-meneses-340146-943096.jpg was taken from website https://www.pexels.com/photo/photo-of-turned-on-laptop-computer-943096/ <sup>[19]</sup>.

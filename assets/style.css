@@ -30,10 +30,6 @@
      text-transform: uppercase;
  }
 
- .sub-heading-color {
-    color: var(--highlight-color-light);
- }
-
  /* Navbar */
 
  #navbar {
@@ -44,3 +40,16 @@
     width: 30px;
 
  }
+
+ /* Header */
+
+#hero {
+    background-color: white; 
+    background-image: url("../assets/images/pexels-danny-meneses-340146-943096.jpg");
+    background-size: cover;
+    background-position: 50% 70%;
+    min-height: 300px;
+    padding: 5% 7%;
+    color: var(--highlight-color-light);
+}
+
