@@ -54,6 +54,8 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Added heading and paragraph to influnces carousel.
 - Added header to contact, project and confirmation html's.
 - Git committed " Styled header, added header to other html's and finished the influences carousel section go the homepage. "
+- Added form to the contact.html and connected the confirmation.html when the form is sumbitted.
+- Git committed " Added form, which each field required to be filled in, to contact.html and it is connects to the confirmation.html when it has been submitted. "
 -
 
 
