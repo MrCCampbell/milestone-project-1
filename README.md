@@ -85,3 +85,21 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Photo V5kN2ubX5wwUyPK3KRGcP3-970-80.jpg was taken from website https://www.space.com/transformer-movies-in-order <sup>[17]</sup>.
 - Photo znyUfG.webp was taken from website https://marinasauce.wordpress.com/2024/01/10/winter-2024-taste-test-solo-leveling/ <sup>[18]</sup>.
 - Photo pexels-danny-meneses-340146-943096.jpg was taken from website https://www.pexels.com/photo/photo-of-turned-on-laptop-computer-943096/ <sup>[19]</sup>.
+- Photo AlltheAnimeLogo_Blue.avif was taken from website https://www.alltheanime.com/ <sup>[20]</sup>.
+- Photo anime-on-line-logo-1551186655.jpg was taken from website https://www.anime-on-line.com/ <sup>[21]</sup>.
+- Photo fanhome_Logo.jpg was taken from website https://www.prnewswire.com/news-releases/fanhome-brings-marvels-iron-man-models-and-other-popular-collections-to-the-united-states-for-the-first-time-301304433.html <sup>[22]</sup>.
+- Photo 37677.png was taken from website https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/game8co-a-rapidly-growing-media-site-launches-game-news-review-services-746945 <sup>[23]</sup>.
+- Photo hachette-fascicule-partwork.webp was taken from website https://www.hachette.com/en/partworks-publishers/ <sup>[24]</sup>.
+- Photo logo2.png was taken from website https://siberianhuskyclub.org.uk/ <sup>[25]</sup>.
+- Photo Single_Variety_Co._Logo.webp was taken from website https://www.singlevariety.co.uk/ <sup>[26]</sup>.
+- Photo 20210427124412thegamecollectionlogo19.png was taken from website https://exactconnections.com/media/the-game-collection <sup>[27]</sup>.
+- Photo Amazon_2024.svg.png was taken from website https://en.m.wikipedia.org/wiki/Amazon_(company) <sup>[28]</sup>.
+- Photo images.jpg was taken from website https://www.bandainamcostudios.com/en/recruit/career <sup>[29]</sup>.
+- Photo Google_2015_logo.svg.png taken from website https://en.wikipedia.org/wiki/Google_logo <sup>[30]</sup>.
+- Photo Grab_(application)_logo.svg.png was taken from website https://en.wikipedia.org/wiki/Grab_Holdings <sup>[31]</sup>.
+- Photo HoYoverse_logo_PNG (2).png was taken from website https://logos-world.net/imageup/HoYoverse_17022023/HoYoverse_logo_PNG%20(2).png <sup>[32]</sup>.
+- Photo Meta_Platforms_Inc._logo.svg.png was taken from website https://en.m.wikipedia.org/wiki/Meta_Platforms <sup>[33]</sup>.
+- Photo PassApp.png was taken from website https://passapptaxis.com/ <sup>[34]</sup>.
+- Photo Square_Enix_logo.svg.png was taken from website https://en.m.wikipedia.org/wiki/Square_Enix <sup>[35]</sup>.
+- Git committed " Added photos and credits for project.html. "
+- 
