@@ -59,8 +59,12 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Deployed project, which is now online.
 - Added bootstrap cards to project.html.
 - Git committed " Added cards to project.html. "
--
-
+- Git committed " Added photos and credits for project.html. "
+- Added photos to the project.html.
+- Git committed " Added photos to project.html. "
+- Added headings to footer of index.html.
+- Git committed " Added headings to index.html's footer. "
+- 
 
 
 
@@ -101,5 +105,3 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Photo Meta_Platforms_Inc._logo.svg.png was taken from website https://en.m.wikipedia.org/wiki/Meta_Platforms <sup>[33]</sup>.
 - Photo PassApp.png was taken from website https://passapptaxis.com/ <sup>[34]</sup>.
 - Photo Square_Enix_logo.svg.png was taken from website https://en.m.wikipedia.org/wiki/Square_Enix <sup>[35]</sup>.
-- Git committed " Added photos and credits for project.html. "
-- 

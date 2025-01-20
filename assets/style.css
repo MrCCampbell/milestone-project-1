@@ -30,6 +30,10 @@
      text-transform: uppercase;
  }
 
+.sub-heading-color {
+    color: var(--highlight-color);
+}
+
  /* Navbar */
 
  #navbar {
