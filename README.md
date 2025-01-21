@@ -55,7 +55,8 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Added header to contact, project and confirmation html's.
 - Git committed " Styled header, added header to other html's and finished the influences carousel section go the homepage. "
 - Added form to the contact.html and connected the confirmation.html when the form is sumbitted.
-- Git committed " Added form, which each field required to be filled in, to contact.html and it is connects to the confirmation.html when it has been submitted. "
+- Git committed " Added form, which each field required to be filled in, to contact.html and it is connects to the confirmation. 
+  html when it has been submitted. "
 - Deployed project, which is now online.
 - Added bootstrap cards to project.html.
 - Git committed " Added cards to project.html. "
@@ -64,6 +65,8 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Git committed " Added photos to project.html. "
 - Added headings to footer of index.html.
 - Git committed " Added headings to index.html's footer. "
+- Added contact details and font awesome picture for social media and the relevant link to the footer.
+- Git committed " Added contacts details and social media links to footer. "
 - 
 
 
