@@ -34,6 +34,31 @@
     color: var(--highlight-color);
 }
 
+ /* Buttons */
+
+ .custom-button-filled {
+    border: 2px solid var(--highlight-color);
+    background-color: var(--highlight-color);
+    color: white;
+}
+
+.custom-button-filled:hover {
+    border: 2px solid var(--secondary-color);
+    background-color: var(--secondary-color);
+    color: white;
+}
+
+.custom-button-outline {
+    border: 3px solid var(--highlight-color-light);
+    padding: 7px 25px;
+    color: var(--highlight-color-light)
+}
+
+.custom-button-outline:hover {
+    background-color: var(--highlight-color);
+    color: white
+}
+
  /* Navbar */
 
  #navbar {
@@ -57,3 +82,34 @@
     color: var(--highlight-color-light);
 }
 
+/* Footer / contact */
+
+#contact {
+   background-color: var(--secondary-color); 
+   padding-bottom: 1rem;
+   padding-top: 2rem;
+}
+
+#contact h2 {
+    color: var(--highlight-color);
+    
+}
+
+#contact i {
+    color: var(--highlight-color);
+    font-size: 1.25rem;
+    margin-right: 40px;
+}
+
+#contact .social-links i {
+    font-size: 2.5rem;
+    transition: color 0.3s ease-in-out;
+}
+
+#contact .social-links i:hover {
+     color: var(--highlight-color-light);
+}
+
+#contact p {
+    color: red;
+}
