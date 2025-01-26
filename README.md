@@ -67,6 +67,9 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Git committed " Added headings to index.html's footer. "
 - Added contact details and font awesome picture for social media and the relevant link to the footer.
 - Git committed " Added contacts details and social media links to footer. "
+- Changed saturation of the hero image.
+- Added custom buttons to all html's.
+- Git committed " Added custom buttons. "
 - 
 
 

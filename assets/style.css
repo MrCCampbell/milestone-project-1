@@ -51,7 +51,7 @@
 .custom-button-outline {
     border: 3px solid var(--highlight-color-light);
     padding: 7px 25px;
-    color: var(--highlight-color-light)
+    color: var(--highlight-color);
 }
 
 .custom-button-outline:hover {
@@ -74,12 +74,13 @@
 
 #hero {
     background-color: white; 
-    background-image: url("../assets/images/pexels-danny-meneses-340146-943096.jpg");
+    background-image: url("../assets/images/pexelsdannymeneses3401469430961.png");
     background-size: cover;
-    background-position: 50% 70%;
+    background-position: 50% 70%; 
     min-height: 300px;
     padding: 5% 7%;
-    color: var(--highlight-color-light);
+    color: var(--highlight-color);
+    
 }
 
 /* Footer / contact */
