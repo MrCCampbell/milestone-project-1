@@ -70,6 +70,8 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Changed saturation of the hero image.
 - Added custom buttons to all html's.
 - Git committed " Added custom buttons. "
+- Added footer to project.html, contact.html, confirmation.html and started to style project cards.
+- Git committed " Added footer to other html's and started style project cards. "
 - 
 
 

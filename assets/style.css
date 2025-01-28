@@ -26,8 +26,9 @@
  }
  
  h1,
- h2 {
-     text-transform: uppercase;
+ h2,
+ h3 {
+     text-transform: capitalize;
  }
 
 .sub-heading-color {
@@ -59,6 +60,10 @@
     color: white
 }
 
+*section {
+    padding-top: 4rem; /* prevent navbar overlap */
+}
+
  /* Navbar */
 
  #navbar {
@@ -82,11 +87,29 @@
     color: var(--highlight-color);
     
 }
+ 
+/* Project cards */
+
+#project .card-footer {
+    font-weight: bold;
+    background-color: transparent;
+}
+
+#project .card {
+    margin-bottom: 1.25rem;
+}
+
+#past-projects .card,
+#dream-companies .card {
+    border-color: var(--secondary-color);
+}
+
 
 /* Footer / contact */
 
 #contact {
-   background-color: var(--secondary-color); 
+   background-color: var(--secondary-color);  
+   text-transform: none;
    padding-bottom: 1rem;
    padding-top: 2rem;
 }
@@ -99,18 +122,46 @@
 #contact i {
     color: var(--highlight-color);
     font-size: 1.25rem;
-    margin-right: 40px;
+    margin-right: 30px;
 }
 
 #contact .social-links i {
-    font-size: 2.5rem;
+    font-size: 2rem;
     transition: color 0.3s ease-in-out;
-}
-
-#contact .social-links i:hover {
-     color: var(--highlight-color-light);
 }
 
 #contact p {
     color: red;
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media screen and (min-width: 768px) {
+    /* Make all service cards the same height for consistency */
+    #services .card-body {
+        min-height: 191px;
+    }
+}
+
+/* Large devices (small laptops, 992px and up) */
+@media screen and (min-width: 992px) {
+    /* Make all service cards the same height for consistency */
+    #services .card-body {
+        min-height: auto;
+    }
+}
+
+/* xl devices (large desktops, 1200px and up) */
+@media screen and (min-width: 1200px) {
+    /* make all service cards the same height for consistency */
+    #services .card-body {
+        min-height: 220px;
+    }
+}
+
+/* xxl devices (larger desktops, 1400px and up) */
+@media screen and (min-width: 1400px) {
+    /* make all service cards the same height for consistency */
+    #services .card-body {
+        min-height: 195px;
+    }
 }
