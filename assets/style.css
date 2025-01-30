@@ -105,8 +105,8 @@
 }
 
 .carousel {
-    min-height: 1920px;
-    min-width: 1080px;
+    max-height: 1920px;
+    max-width: 1080px;
 }
 /* Footer / contact */
 
