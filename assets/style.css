@@ -79,7 +79,7 @@
 
 #hero {
     background-color: white; 
-    background-image: url("../assets/images/pexelsdannymeneses3401469430961.png");
+    background-image: url("../assets/images/pexels-danny-meneses-340146-943096-1.JPG");
     background-size: cover;
     background-position: 50% 70%; 
     min-height: 300px;
@@ -104,10 +104,6 @@
     border-color: var(--secondary-color);
 }
 
-#carouselExampleAutoplaying  {
-    height: 1000px;
-
-}
 
 /* Footer / contact */
 

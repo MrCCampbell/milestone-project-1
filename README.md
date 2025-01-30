@@ -74,6 +74,7 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Git committed " Added footer to other html's and started style project cards. "
 - Migrated file to vscode due change of code institutes change of IDE.
 - Git committed " Migrated project file to vscode. "
+- Git committed " Started styling carousel on index.html. "
 - 
 
 
