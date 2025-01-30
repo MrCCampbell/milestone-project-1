@@ -104,7 +104,10 @@
     border-color: var(--secondary-color);
 }
 
-
+.carousel {
+    height: 3840px;
+    width: 2160px;
+}
 /* Footer / contact */
 
 #contact {

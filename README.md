@@ -75,10 +75,12 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Migrated file to vscode due change of code institutes change of IDE.
 - Git committed " Migrated project file to vscode. "
 - Git committed " Started styling carousel on index.html. "
+- Git committed " Testing styles to improve website. "
+- Git committed " Test images sizes as vscode won't open from port. "
 - 
+  
 
-
-
+  
 ### Credits
 
 - Photo 18r67gzglojskjpg.webp was taken from website https://gizmodo.com/how-does-the-original-tron-live-up-to-our-nerdstalgia-5700796 <sup>[1]</sup>.
