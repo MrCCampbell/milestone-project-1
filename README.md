@@ -80,6 +80,8 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - GIt committed " Test images sizes as vscode won't open from port pt2. "
 - Git committed " Test images sizes as vscode won't open from port pt3. "
 - Git committed " Test images sizes as vscode won't open from port pt4. "
+- Git committed " Test images sizes as vscode won't open from port pt5. "
+- Git committed " Changed images for carousel. "
 - 
   
 
