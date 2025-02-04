@@ -84,6 +84,7 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Git committed " Changed images for carousel. "
 - Added calendar and book now button to home page.
 - Git committed " Added calendar and button to homepage. "
+- Git committed " Added credit for calendar. "
 - 
   
 
@@ -125,3 +126,4 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Photo Meta_Platforms_Inc._logo.svg.png was taken from website https://en.m.wikipedia.org/wiki/Meta_Platforms <sup>[33]</sup>.
 - Photo PassApp.png was taken from website https://passapptaxis.com/ <sup>[34]</sup>.
 - Photo Square_Enix_logo.svg.png was taken from website https://en.m.wikipedia.org/wiki/Square_Enix <sup>[35]</sup>.
+- Calendar src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FLondon&showPrint=0&src=Y2hyaXNjYW1wYmVsbGxsYW5AaG90bWFpbC5jby51aw&src=MDhmMTNmYWIyZGM5NGRhMzNiOGE3ZjRhYWRkODEzMDkwMDdjODhhZGJiNWUzMGQ4MmE1YzhmNGIyNmVlNjdkOUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4tZ2IuY2hyaXN0aWFuI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4tZ2Iua2gjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4udWsjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%237986CB&color=%2333B679&color=%234285F4&color=%23D81B60&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no" was taken from my personal calendar at  https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook <sup>[36]</sup>.
