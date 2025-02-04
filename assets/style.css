@@ -61,7 +61,7 @@
 }
 
 *section {
-    padding-top: 4rem; /* prevent navbar overlap */
+    padding-top: 2rem; /* prevent navbar overlap */
 }
 
  /* Navbar */
