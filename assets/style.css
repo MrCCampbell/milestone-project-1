@@ -90,23 +90,25 @@
  
 /* Project cards */
 
+
+
 #project .card-footer {
     font-weight: bold;
     background-color: transparent;
 }
 
 #project .card {
-    margin-bottom: 1.25rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 #past-projects .card,
 #dream-companies .card {
     border-color: var(--secondary-color);
+    padding-top: 16px;
 }
 
-.carousel {
-   border: #5500AA;
-}
+
 /* Footer / contact */
 
 #contact {

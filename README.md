@@ -85,8 +85,8 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Added calendar and book now button to home page.
 - Git committed " Added calendar and button to homepage. "
 - Git committed " Added credit for calendar. "
-- 
-  
+- Git committed " Added link to calendar button. "
+-   
 
 
 ### Credits
