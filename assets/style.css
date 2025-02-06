@@ -92,9 +92,8 @@
 
 
 
-#project .card-footer {
-    font-weight: bold;
-    background-color: transparent;
+#project .card .h3 {
+        color: var(--primary-color);
 }
 
 #project .card {

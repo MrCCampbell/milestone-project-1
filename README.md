@@ -88,7 +88,8 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Git committed " Added link to calendar button. "
 - Changing card styling to fit website goals.
 - Git committed " Changed card styles. "
-
+- Adjusting card style to look better on website.
+- Git committed " Adjusted card styles 1. "
 
 
 ### Credits
