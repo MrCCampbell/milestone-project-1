@@ -90,7 +90,9 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Git committed " Changed card styles. "
 - Adjusting card style to look better on website.
 - Git committed " Adjusted card styles 1. "
-
+- Removed active link on confirmation.html.
+- Tested contact.html and test location of button.
+- Git committed " Adjust confirmation.html. "
 
 ### Credits
 
