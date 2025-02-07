@@ -93,6 +93,9 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Removed active link on confirmation.html.
 - Tested contact.html and test location of button.
 - Git committed " Adjust confirmation.html. "
+- Change size of cards on project.html.
+- Git committed " Adjusted cards on project.html. "
+- 
 
 ### Credits
 
