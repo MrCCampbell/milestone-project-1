@@ -95,7 +95,10 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Git committed " Adjust confirmation.html. "
 - Change size of cards on project.html.
 - Git committed " Adjusted cards on project.html. "
+- Changed disclaimer color from red to yellow on footer to standout better.
+- Git committed " Changed color on disclaimer. "
 - 
+
 
 ### Credits
 
