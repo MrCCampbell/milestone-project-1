@@ -103,6 +103,9 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Git committed " Added coming soon to confirmation.html. "
 - Updated coming soon on confirmation.html.
 - Git commit " Updated coming soon on confirmation.html. "
+- Changed code on confirmation.html for better look.
+- Git commit "  Changed code on confirmation.html for better look. "
+
 
 ### Bugs/ Issues
 
