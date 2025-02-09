@@ -101,7 +101,8 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Git committed " Added bug/ issues section to readme file. "
 - Added coming soon section to the confirmation.html.
 - Git committed " Added coming soon to confirmation.html. "
-
+- Updated coming soon on confirmation.html.
+- Git commit " Updated coming soon on confirmation.html. "
 
 ### Bugs/ Issues
 
