@@ -105,6 +105,8 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Git commit " Updated coming soon on confirmation.html. "
 - Changed code on confirmation.html for better look.
 - Git commit "  Changed code on confirmation.html for better look. "
+- Used to Squoosh to optimise all the images used on index.html and project.html
+- Git committed " Optimised images to cut loading issues. "
 
 
 ### Bugs/ Issues
