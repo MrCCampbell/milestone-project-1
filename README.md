@@ -109,9 +109,14 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Git committed " Optimised images to cut loading issues. "
 - Removed google calendar, due to third party issues on google chrome from index.html and replaced with button link to calendly instead.
 - Git committed " Removed google calendar, then replace with calendly button instead. "
+- Checked that all links connected to images.
+- Git committed " Rechecked the image links. "
+- Updated readme file with lighthouse checks and images of screenshots.
+- Git committed " Update readme file with lighthouse checks. "
 
 
 ### Bugs/ Issues
+
 
 #### Know Issues 
 
@@ -120,6 +125,35 @@ During the building of the website there has been issues crept up, the first suc
 
 The second known issue was the on the project.html, the card were different sizes and changing the sizes via CSS and changing the images sizes, made the issue worse with the cards being mashed on top of each other or sizes were different. Certain image sizes made the cards unable to be all the size I had envisioned to be. I had to make the choice of getting the cards the same size that I wanted or lose the quality of certain images and make them unreadable. So I adapted the cards to be bigger but all the same size. Making them all uniformed. 
 
+
+#### Lighthouse checks
+
+I have ran index.html through Lighthouse on devtools. 
+
+![alt text](//assets/images/Screenshot%202025-02-09%20140408.png "Lighthouse index.html1")
+
+The first big issue was the images took to long to load on the page. So on devtools recommendation I used Squoosh app to optimise all images for the website to make it run more efficiently.
+
+Rerun Lighthouse to see any improvement.
+
+![alt text](//assets/images/Screenshot%202025-02-10%20123630.png "Lighthouse index.html2")
+
+The second issue was that the google calendar which google chrome had issue with the "third party cookies".
+Therefore I removed the calendar and put a button link to calendly instead. Giving it a better score on Lighthouse.
+
+![alt text](//assets/images/Screenshot%202025-02-10%20131636.png "Lighthouse index.html3")
+
+Next I ran Lighthouse on project.html, which showed the score was good.
+
+![alt text](//assets/images/Screenshot%202025-02-09%20145120.png "Lighthouse project.html")
+
+Then I ran Lighthouse on contact.html, which showed the score was good too.
+
+![alt text](//assets/images/Screenshot%202025-02-09%20141134.png "Lighthouse contact.html")
+
+Finally I ran Lighthouse on confirmation.html, which also showed a good score.
+
+![alt text](//assets/images/Screenshot%202025-02-09%20144932.png "Lighthouse confirmation.html")
 
 ### Credits
 
