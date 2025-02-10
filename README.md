@@ -113,7 +113,10 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Git committed " Rechecked the image links. "
 - Updated readme file with lighthouse checks and images of screenshots.
 - Git committed " Update readme file with lighthouse checks. "
-
+- Optimised images did not look right so reverted them to originals.
+- Git committed " Swapped 3 optimised images back to originals, due clarity issues. "
+- Relinked orginal images to project.html.
+- Git committed " Relinked orginal images to project.html. "
 
 ### Bugs/ Issues
 
