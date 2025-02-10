@@ -107,6 +107,8 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 - Git commit "  Changed code on confirmation.html for better look. "
 - Used to Squoosh to optimise all the images used on index.html and project.html
 - Git committed " Optimised images to cut loading issues. "
+- Removed google calendar, due to third party issues on google chrome from index.html and replaced with button link to calendly instead.
+- Git committed " Removed google calendar, then replace with calendly button instead. "
 
 
 ### Bugs/ Issues
@@ -115,6 +117,7 @@ The project I have decided to build is a portfolio for myself. As I do not have 
 
 
 During the building of the website there has been issues crept up, the first such issue was with the carousel and the images placed inside it, on the index.html. The images in the carousel were not the same size, and made the carousel unkempted. I tried using CSS and Bootstrap to adjust the images sizes to be uniformed throughout the carousel, the results did not look the way it needed to be. The only option I had was to edit every image to be the same size individually to 768x432px. Once done the carousel performed the way required.
+
 The second known issue was the on the project.html, the card were different sizes and changing the sizes via CSS and changing the images sizes, made the issue worse with the cards being mashed on top of each other or sizes were different. Certain image sizes made the cards unable to be all the size I had envisioned to be. I had to make the choice of getting the cards the same size that I wanted or lose the quality of certain images and make them unreadable. So I adapted the cards to be bigger but all the same size. Making them all uniformed. 
 
 
